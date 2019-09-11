@@ -1,2 +1,2 @@
-# docker-jupyter-datascience
-Docker for Datascience with Jupyter and Tensorflow
+# docker-jupyter-data-science
+Docker for Data Science with Jupyter and Tensorflow
